@@ -18,7 +18,7 @@ AS
   GROUP BY  `m1`.`meta_value`
   ORDER BY  `p`.`id` ;
 -------------------------------------------------------------------------------
--- Create a partial View to get the submission number,
+-- Create a View to get the submission number,
 -- submission metadata and order attributes
 -------------------------------------------------------------------------------
   CREATE VIEW `md_final_report_to_lastname_2`
