@@ -1,2 +1,2 @@
 # PPA-SQL-REPORT-2016
-Mixing vertical Tables with Regular ones to output a report for awards.printing.org
+Created to help an intern better understand how SQL works in Wordpress. 
